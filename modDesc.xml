@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<modDesc descVersion="96" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="https://validation.gdn.giants-software.com/xml/fs25/modDesc.xsd">
+    <author>R3dtux</author>
+    <version>1.0.0.1</version>
+    <title>
+	    <en>John Deere 8R - OF</en>
+        <de>John Deere 8R - OF</de>
+    </title>
+
+    <description>
+	
+<en><![CDATA[                                       
+
+ Category: Big Tractors
+ Price: $321500
+ Power: 326 - 458 hp 55 kph
+ Opa Frank Tuning 700 hp
+ Max. speed: 65 kph
+
+ -All in Multicolor :
+
+ - Selectable Body Colour
+ - Selectable Seat Colour
+ - Selectable Grid Colour
+ - Selectable Decal Colour
+ - Selectable Rim Colour
+ - Another Horn was installed
+
+]]></en>   
+
+<de><![CDATA[  
+
+ Shopkategorie: Große Traktoren
+ Preis: 312500€
+ Leistung: 326 - 458 PS 55 km/h
+ Opa Frank Tuning 700 PS
+ Höchstgeschwindigkeit: 65 km/h
+                                                            
+ -Alles in Multicolor :
+
+ -Wählbare Aussenfarbe 
+ -Wählbare Sitzvarbe
+ -Wählbare Grillfarbe
+ -Wählbare DecalFarbe 
+ -Wählbare Felgenfarbe
+ -Eine andere Hupe wurde Verbaut
+
+]]></de>
+	   
+    </description>
+
+    <iconFilename>icon_series8R.dds</iconFilename>
+
+    <multiplayer supported="true"/>
+
+    <storeItems>
+        <storeItem xmlFilename="series8R.xml"/>
+    </storeItems>
+	
+	
+</modDesc>
